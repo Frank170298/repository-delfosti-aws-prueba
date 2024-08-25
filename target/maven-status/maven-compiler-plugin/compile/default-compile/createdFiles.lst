@@ -1,0 +1,9 @@
+com\delfosti\delgosti\repo\IGenericRepo.class
+com\delfosti\delgosti\controller\movieController.class
+com\delfosti\delgosti\service\impl\MovieServiceImpl.class
+com\delfosti\delgosti\repo\IMovieRepo.class
+com\delfosti\delgosti\DelgostiApplication.class
+com\delfosti\delgosti\service\IMovieService.class
+com\delfosti\delgosti\service\impl\CRUDImpl.class
+com\delfosti\delgosti\model\Movie.class
+com\delfosti\delgosti\service\ICRUD.class
